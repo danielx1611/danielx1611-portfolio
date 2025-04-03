@@ -1,4 +1,4 @@
-# Daniel Acosta's Portfolio
-[Click here to access it!](https://danielx1611.github.io)
+# Computer Scientist
 
-Portfolio Site for Daniel Acosta
+#### Technical Skills: Java, Python, C#, C, HTML5, CSS, JavaScript, MERN stack, SQL
+#### Tools: AWS, Github, JIRA, Agile, Microsoft Office Suite, Unity

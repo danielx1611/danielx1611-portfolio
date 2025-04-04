@@ -56,6 +56,10 @@
     .about-containers {
         margin-top: 0;
     }
+
+    .btn-go-back-desktop {
+        width: 5rem;
+    }
 }
 
 @media (max-width: 600px) {
@@ -127,5 +131,13 @@
 
     .work-history-list {
         width: 20rem;
+    }
+
+    .btn-go-back-desktop {
+        display: none;
+    }
+
+    .btn-go-back-mobile {
+        display: inline-block;
     }
 }

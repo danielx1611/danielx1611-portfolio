@@ -260,12 +260,24 @@ section {
     gap: 1rem;
 }
 
-.btn-go-back {
+.btn-go-back-desktop {
+    display: default;
     text-align: center;
     position: fixed;
     top: 40px;
     left: 40px;
     z-index: 1000;
+    width: 6rem;
+}
+
+.btn-go-back-mobile {
+    display: none;
+    text-align: center;
+    position: fixed;
+    top: 30px;
+    left: 40px;
+    z-index: 1000;
+    width: 4rem;
 }
 
 /* About Section */

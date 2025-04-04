@@ -124,4 +124,8 @@
     .text-container {
         text-align: justify;
     }
+
+    .work-history-list {
+        width: 20rem;
+    }
 }

@@ -316,6 +316,10 @@ section {
     margin: auto 0;
 }
 
+.text-container {
+    text-align: center;
+}
+
 /* Experience Section */
 
 #experience {

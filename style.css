@@ -359,6 +359,14 @@ article .icon {
     cursor: default;
 }
 
+.work-history-list {
+    display: flex;
+    text-align: initial;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+}
+
 /* Projects Section */
 
 #projects {

@@ -249,7 +249,7 @@ section {
 }
 
 .btn-color-2 {
-    background: none;
+    background: white;
 }
 
 .btn-color-2:hover {
@@ -258,6 +258,14 @@ section {
 
 .btn-container {
     gap: 1rem;
+}
+
+.btn-go-back {
+    text-align: center;
+    position: fixed;
+    top: 40px;
+    left: 40px;
+    z-index: 1000;
 }
 
 /* About Section */
@@ -394,9 +402,30 @@ article .icon {
     color: black;
 }
 
-.project-btn {
-    color: black;
+/* Project Descriptions */
+
+.color-container-project-description {
     border-color: rgb(163, 163, 163);
+    background: rgb(250, 250, 250);
+    max-width: 40rem;
+}
+
+.project-description-article {
+    text-align: left;
+    gap: 1rem;
+}
+
+.project-description-article p {
+    width: 100%;
+}
+
+.project-description-article ul {
+    width: 90%;
+}
+
+.project-description-subheader {
+    text-align: left;
+    width: 100%;
 }
 
 /* Contact Section */

@@ -364,7 +364,11 @@ article .icon {
     text-align: initial;
     flex-direction: column;
     gap: 1rem;
-    justify-content: center;
+    width: 25rem;
+}
+
+.work-history-list li {
+    padding-top: 0.5rem
 }
 
 /* Projects Section */

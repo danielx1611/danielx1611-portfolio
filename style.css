@@ -387,8 +387,13 @@ article .icon {
     width: 25rem;
 }
 
+.work-history-list ul {
+    width: 90%;
+}
+
 .work-history-list li {
-    padding-top: 0.5rem
+    padding-top: 0.5rem;
+    margin-left: 1.5rem;
 }
 
 .work-history-sub-title {

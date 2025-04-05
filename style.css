@@ -190,6 +190,10 @@ section {
     text-align: center;
 }
 
+.p1-left-align {
+    text-align: left;
+}
+
 .section-text-p2 {
     font-size: 1.75rem;
     margin-bottom: 1rem;

@@ -369,7 +369,11 @@ section {
 }
 
 .one-item {
-    gap: 0rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    justify-content: center;
+    align-items: center;
 }
 
 article {

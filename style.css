@@ -317,8 +317,9 @@ section {
 }
 
 .details-container {
+    display: flex;
+    flex-direction: column;
     padding: 1.5rem;
-    flex: 1;
     background: white;
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
@@ -367,6 +368,10 @@ section {
     flex-direction: row;
     gap: 2.5rem;
     justify-content: space-evenly;
+}
+
+.one-item {
+    gap: 0rem;
 }
 
 article {

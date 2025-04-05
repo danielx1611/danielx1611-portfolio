@@ -317,8 +317,6 @@ section {
 }
 
 .details-container {
-    display: flex;
-    flex-direction: column;
     padding: 1.5rem;
     background: white;
     border-radius: 2rem;
